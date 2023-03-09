@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+}
+
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: 'roboto';
+  color: black;
+}
+
+span {
+  font-family: 'roboto';
+  color: purple;
+}
+
+p {
+  font-family: 'roboto';
+  color: grey;
+}
+
+button {
+  background-color: blue;
+  color: #ffffff;
+  height: 40px;
+  width: 100px;
+  border-radius: 9px;
+  padding: 4px;
+}
